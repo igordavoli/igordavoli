@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning node, react and react native.
 - 👯 I’m looking to collaborate on projects that's uses this tools.
 
-<a height= "195px" title="Anurag's GitHub stats" href="https://github.com/anuraghazra/github-readme-stats">
+<a height= "195em" title="Anurag's GitHub stats" href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=igordavoli&theme=radical" />
 <a>
   
-<a height= "195px" title="Anurag's GitHub stats" href="https://github.com/anuraghazra/github-readme-stats">
+<a height= "195em" title="Anurag's GitHub stats" href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igordavoli&layout=compact&theme=radical" />
 <a>
