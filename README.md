@@ -1,4 +1,4 @@
-<div   margin: "auto">
+<div style="margin: auto">
 ### Hi there 👋
 
 <!--
