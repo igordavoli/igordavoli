@@ -1,4 +1,3 @@
-<div style="margin: auto">
 ### Hi there 👋
 
 <!--
@@ -20,5 +19,4 @@ Here are some ideas to get you started:
  <a title="Anurag's GitHub stats" href="https://github.com/anuraghazra/github-readme-stats">
    <img height="180em"src="https://github-readme-stats.vercel.app/api?username=igordavoli&theme=radical" />
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igordavoli&layout=compact&theme=radical&langs_count=16" />
-</div>
 </div>
