@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on projects that's uses this tools.
 
 <div>
- <a height="180px" title="Anurag's GitHub stats" href="https://github.com/anuraghazra/github-readme-stats">
+ <a height="180em" title="Anurag's GitHub stats" href="https://github.com/anuraghazra/github-readme-stats">
    <img src="https://github-readme-stats.vercel.app/api?username=igordavoli&theme=radical" />
  <a>
- <a title="Anurag's GitHub stats" href="https://github.com/anuraghazra/github-readme-stats">
+ <a height="180em" title="Anurag's GitHub stats" href="https://github.com/anuraghazra/github-readme-stats">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igordavoli&layout=compact&theme=radical&langs_count=16" />
  <a>
 </div>
