@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 <div>
  <a title="Anurag's GitHub stats" href="https://github.com/anuraghazra/github-readme-stats">
    <img height="180em" width:"425em" src="https://github-readme-stats.vercel.app/api?username=igordavoli&theme=radical" />
-   <img height="180em" width:"425em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igordavoli&layout=compact&theme=radical&langs_count=16" />
+   <img height="180em" width:"425em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igordavoli&layout=compact&theme=radical&langs_count=10" />
 </div>
