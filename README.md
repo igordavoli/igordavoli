@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on projects that's uses this tools.
 
 
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/idavoli-&cursus=42cursus)](https://github.com/JaeSeoKim/badge42)
+[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/idavoli-?cursus=42cursus)](https://github.com/JaeSeoKim/badge42)
 <div width="425" >
  <a title="Anurag's GitHub stats" href="https://github.com/anuraghazra/github-readme-stats">
    <img src="https://github-readme-stats.vercel.app/api?username=igordavoli&theme=radical&card_width=440" />
